@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Stopky",
+  "version": "1.0",
+  "description": "Timer pro projekt",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "https://example.com/*"
+  ]
+}
